@@ -8,7 +8,7 @@ Download the Handmate-OSC-Offline code folder.
 
 Open your terminal window on Mac (press CMD + spacebar simultaneously, in the search window, type in terminal and enter) or Command Prompt on Windows. Go to the folder where you downloaded Handmate-OSC-Offline. You can do this by just dragging the folder into the terminal winwdow and press enter. Or type in 'cd' followed by the path name. For example, if you put the folder on your desktop:
 
-```$ cd desktop/Handmate-OSC/Offline/```
+```$ cd desktop/Handmate-OSC-Offline/```
 
 Install package dependencies (the files you will need to run the code) by typing in:
 
