@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@mediapipe/camera_utils": "^0.3.1675466862",
+    "@mediapipe/control_utils": "^0.6.1675466023",
+    "@mediapipe/drawing_utils": "^0.3.1675466124",
+    "@mediapipe/hands": "^0.3.1634603088",
+    "osc-js": "^2.4.1"
+  }
+}
